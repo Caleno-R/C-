@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\TutionExercise\TutionExercise\bin\Debug\TutionExercise.exe.config
+C:\Users\hp\source\repos\TutionExercise\TutionExercise\bin\Debug\TutionExercise.exe
+C:\Users\hp\source\repos\TutionExercise\TutionExercise\bin\Debug\TutionExercise.pdb
+C:\Users\hp\source\repos\TutionExercise\TutionExercise\obj\Debug\TutionExercise.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\TutionExercise\TutionExercise\obj\Debug\TutionExercise.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TutionExercise\TutionExercise\obj\Debug\TutionExercise.exe
+C:\Users\hp\source\repos\TutionExercise\TutionExercise\obj\Debug\TutionExercise.pdb

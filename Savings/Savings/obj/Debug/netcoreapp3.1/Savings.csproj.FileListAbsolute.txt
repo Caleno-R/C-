@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\Savings\Savings\obj\Debug\netcoreapp3.1\Savings.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Savings\Savings\obj\Debug\netcoreapp3.1\Savings.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Savings\Savings\obj\Debug\netcoreapp3.1\Savings.AssemblyInfo.cs
+C:\Users\hp\source\repos\Savings\Savings\obj\Debug\netcoreapp3.1\Savings.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Savings\Savings\bin\Debug\netcoreapp3.1\Savings.exe
+C:\Users\hp\source\repos\Savings\Savings\bin\Debug\netcoreapp3.1\Savings.deps.json
+C:\Users\hp\source\repos\Savings\Savings\bin\Debug\netcoreapp3.1\Savings.runtimeconfig.json
+C:\Users\hp\source\repos\Savings\Savings\bin\Debug\netcoreapp3.1\Savings.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Savings\Savings\bin\Debug\netcoreapp3.1\Savings.dll
+C:\Users\hp\source\repos\Savings\Savings\bin\Debug\netcoreapp3.1\Savings.pdb
+C:\Users\hp\source\repos\Savings\Savings\obj\Debug\netcoreapp3.1\Savings.dll
+C:\Users\hp\source\repos\Savings\Savings\obj\Debug\netcoreapp3.1\Savings.pdb
+C:\Users\hp\source\repos\Savings\Savings\obj\Debug\netcoreapp3.1\Savings.genruntimeconfig.cache

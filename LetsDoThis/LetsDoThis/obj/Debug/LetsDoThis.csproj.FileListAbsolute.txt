@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\LetsDoThis\LetsDoThis\bin\Debug\LetsDoThis.exe.config
+C:\Users\hp\source\repos\LetsDoThis\LetsDoThis\bin\Debug\LetsDoThis.exe
+C:\Users\hp\source\repos\LetsDoThis\LetsDoThis\bin\Debug\LetsDoThis.pdb
+C:\Users\hp\source\repos\LetsDoThis\LetsDoThis\obj\Debug\LetsDoThis.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\LetsDoThis\LetsDoThis\obj\Debug\LetsDoThis.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LetsDoThis\LetsDoThis\obj\Debug\LetsDoThis.exe
+C:\Users\hp\source\repos\LetsDoThis\LetsDoThis\obj\Debug\LetsDoThis.pdb

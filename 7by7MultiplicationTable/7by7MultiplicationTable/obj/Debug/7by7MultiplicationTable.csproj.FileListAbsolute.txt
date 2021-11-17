@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\7by7MultiplicationTable\7by7MultiplicationTable\bin\Debug\7by7MultiplicationTable.exe.config
+C:\Users\hp\source\repos\7by7MultiplicationTable\7by7MultiplicationTable\bin\Debug\7by7MultiplicationTable.exe
+C:\Users\hp\source\repos\7by7MultiplicationTable\7by7MultiplicationTable\bin\Debug\7by7MultiplicationTable.pdb
+C:\Users\hp\source\repos\7by7MultiplicationTable\7by7MultiplicationTable\obj\Debug\7by7MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\7by7MultiplicationTable\7by7MultiplicationTable\obj\Debug\7by7MultiplicationTable.exe
+C:\Users\hp\source\repos\7by7MultiplicationTable\7by7MultiplicationTable\obj\Debug\7by7MultiplicationTable.pdb

@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\BMIExercise\BMIExercise\bin\Debug\BMIExercise.exe.config
+C:\Users\hp\source\repos\BMIExercise\BMIExercise\bin\Debug\BMIExercise.exe
+C:\Users\hp\source\repos\BMIExercise\BMIExercise\bin\Debug\BMIExercise.pdb
+C:\Users\hp\source\repos\BMIExercise\BMIExercise\obj\Debug\BMIExercise.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\BMIExercise\BMIExercise\obj\Debug\BMIExercise.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BMIExercise\BMIExercise\obj\Debug\BMIExercise.exe
+C:\Users\hp\source\repos\BMIExercise\BMIExercise\obj\Debug\BMIExercise.pdb

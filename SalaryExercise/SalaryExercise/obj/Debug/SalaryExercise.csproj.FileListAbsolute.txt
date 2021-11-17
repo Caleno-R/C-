@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\SalaryExercise\SalaryExercise\bin\Debug\SalaryExercise.exe.config
+C:\Users\hp\source\repos\SalaryExercise\SalaryExercise\bin\Debug\SalaryExercise.exe
+C:\Users\hp\source\repos\SalaryExercise\SalaryExercise\bin\Debug\SalaryExercise.pdb
+C:\Users\hp\source\repos\SalaryExercise\SalaryExercise\obj\Debug\SalaryExercise.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\SalaryExercise\SalaryExercise\obj\Debug\SalaryExercise.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SalaryExercise\SalaryExercise\obj\Debug\SalaryExercise.exe
+C:\Users\hp\source\repos\SalaryExercise\SalaryExercise\obj\Debug\SalaryExercise.pdb

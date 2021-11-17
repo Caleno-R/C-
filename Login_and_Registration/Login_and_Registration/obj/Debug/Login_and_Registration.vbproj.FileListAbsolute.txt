@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\Login_and_Registration\Login_and_Registration\obj\Debug\Login_and_Registration.vbprojAssemblyReference.cache
+C:\Users\hp\source\repos\Login_and_Registration\Login_and_Registration\obj\Debug\Login_and_Registration.Login_Form.resources
+C:\Users\hp\source\repos\Login_and_Registration\Login_and_Registration\obj\Debug\Login_and_Registration.Resources.resources
+C:\Users\hp\source\repos\Login_and_Registration\Login_and_Registration\obj\Debug\Login_and_Registration.vbproj.GenerateResource.cache
+C:\Users\hp\source\repos\Login_and_Registration\Login_and_Registration\obj\Debug\Login_and_Registration.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Login_and_Registration\Login_and_Registration\bin\Debug\Login_and_Registration.exe.config
+C:\Users\hp\source\repos\Login_and_Registration\Login_and_Registration\bin\Debug\Login_and_Registration.exe
+C:\Users\hp\source\repos\Login_and_Registration\Login_and_Registration\bin\Debug\Login_and_Registration.pdb
+C:\Users\hp\source\repos\Login_and_Registration\Login_and_Registration\bin\Debug\Login_and_Registration.xml
+C:\Users\hp\source\repos\Login_and_Registration\Login_and_Registration\obj\Debug\Login_and_Registration.exe
+C:\Users\hp\source\repos\Login_and_Registration\Login_and_Registration\obj\Debug\Login_and_Registration.xml
+C:\Users\hp\source\repos\Login_and_Registration\Login_and_Registration\obj\Debug\Login_and_Registration.pdb
+C:\Users\hp\source\repos\Login_and_Registration\Login_and_Registration\obj\Debug\Login_and_Registration.RegistrationForm.resources

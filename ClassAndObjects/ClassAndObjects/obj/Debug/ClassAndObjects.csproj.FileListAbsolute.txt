@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\ClassAndObjects\ClassAndObjects\bin\Debug\ClassAndObjects.exe.config
+C:\Users\hp\source\repos\ClassAndObjects\ClassAndObjects\bin\Debug\ClassAndObjects.exe
+C:\Users\hp\source\repos\ClassAndObjects\ClassAndObjects\bin\Debug\ClassAndObjects.pdb
+C:\Users\hp\source\repos\ClassAndObjects\ClassAndObjects\obj\Debug\ClassAndObjects.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ClassAndObjects\ClassAndObjects\obj\Debug\ClassAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ClassAndObjects\ClassAndObjects\obj\Debug\ClassAndObjects.exe
+C:\Users\hp\source\repos\ClassAndObjects\ClassAndObjects\obj\Debug\ClassAndObjects.pdb

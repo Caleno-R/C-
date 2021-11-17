@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\testing\testing\bin\Debug\netcoreapp3.1\testing.exe
+C:\Users\hp\source\repos\testing\testing\bin\Debug\netcoreapp3.1\testing.deps.json
+C:\Users\hp\source\repos\testing\testing\bin\Debug\netcoreapp3.1\testing.runtimeconfig.json
+C:\Users\hp\source\repos\testing\testing\bin\Debug\netcoreapp3.1\testing.runtimeconfig.dev.json
+C:\Users\hp\source\repos\testing\testing\bin\Debug\netcoreapp3.1\testing.dll
+C:\Users\hp\source\repos\testing\testing\bin\Debug\netcoreapp3.1\testing.pdb
+C:\Users\hp\source\repos\testing\testing\obj\Debug\netcoreapp3.1\testing.vbprojAssemblyReference.cache
+C:\Users\hp\source\repos\testing\testing\obj\Debug\netcoreapp3.1\testing.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\testing\testing\obj\Debug\netcoreapp3.1\testing.AssemblyInfo.vb
+C:\Users\hp\source\repos\testing\testing\obj\Debug\netcoreapp3.1\testing.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\testing\testing\obj\Debug\netcoreapp3.1\testing.dll
+C:\Users\hp\source\repos\testing\testing\obj\Debug\netcoreapp3.1\testing.pdb
+C:\Users\hp\source\repos\testing\testing\obj\Debug\netcoreapp3.1\testing.genruntimeconfig.cache

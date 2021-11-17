@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\7by7TableDoWhile\7by7TableDoWhile\bin\Debug\7by7TableDoWhile.exe.config
+C:\Users\hp\source\repos\7by7TableDoWhile\7by7TableDoWhile\bin\Debug\7by7TableDoWhile.exe
+C:\Users\hp\source\repos\7by7TableDoWhile\7by7TableDoWhile\bin\Debug\7by7TableDoWhile.pdb
+C:\Users\hp\source\repos\7by7TableDoWhile\7by7TableDoWhile\obj\Debug\7by7TableDoWhile.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\7by7TableDoWhile\7by7TableDoWhile\obj\Debug\7by7TableDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\7by7TableDoWhile\7by7TableDoWhile\obj\Debug\7by7TableDoWhile.exe
+C:\Users\hp\source\repos\7by7TableDoWhile\7by7TableDoWhile\obj\Debug\7by7TableDoWhile.pdb

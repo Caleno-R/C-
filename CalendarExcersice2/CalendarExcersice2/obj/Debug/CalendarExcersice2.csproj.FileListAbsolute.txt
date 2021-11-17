@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\CalendarExcersice2\CalendarExcersice2\bin\Debug\CalendarExcersice2.exe.config
+C:\Users\hp\source\repos\CalendarExcersice2\CalendarExcersice2\bin\Debug\CalendarExcersice2.exe
+C:\Users\hp\source\repos\CalendarExcersice2\CalendarExcersice2\bin\Debug\CalendarExcersice2.pdb
+C:\Users\hp\source\repos\CalendarExcersice2\CalendarExcersice2\obj\Debug\CalendarExcersice2.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CalendarExcersice2\CalendarExcersice2\obj\Debug\CalendarExcersice2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CalendarExcersice2\CalendarExcersice2\obj\Debug\CalendarExcersice2.exe
+C:\Users\hp\source\repos\CalendarExcersice2\CalendarExcersice2\obj\Debug\CalendarExcersice2.pdb

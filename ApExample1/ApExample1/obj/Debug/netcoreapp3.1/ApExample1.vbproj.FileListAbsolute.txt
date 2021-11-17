@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\ApExample1\ApExample1\bin\Debug\netcoreapp3.1\ApExample1.exe
+C:\Users\hp\source\repos\ApExample1\ApExample1\bin\Debug\netcoreapp3.1\ApExample1.deps.json
+C:\Users\hp\source\repos\ApExample1\ApExample1\bin\Debug\netcoreapp3.1\ApExample1.runtimeconfig.json
+C:\Users\hp\source\repos\ApExample1\ApExample1\bin\Debug\netcoreapp3.1\ApExample1.runtimeconfig.dev.json
+C:\Users\hp\source\repos\ApExample1\ApExample1\bin\Debug\netcoreapp3.1\ApExample1.dll
+C:\Users\hp\source\repos\ApExample1\ApExample1\bin\Debug\netcoreapp3.1\ApExample1.pdb
+C:\Users\hp\source\repos\ApExample1\ApExample1\obj\Debug\netcoreapp3.1\ApExample1.vbprojAssemblyReference.cache
+C:\Users\hp\source\repos\ApExample1\ApExample1\obj\Debug\netcoreapp3.1\ApExample1.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ApExample1\ApExample1\obj\Debug\netcoreapp3.1\ApExample1.AssemblyInfo.vb
+C:\Users\hp\source\repos\ApExample1\ApExample1\obj\Debug\netcoreapp3.1\ApExample1.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ApExample1\ApExample1\obj\Debug\netcoreapp3.1\ApExample1.dll
+C:\Users\hp\source\repos\ApExample1\ApExample1\obj\Debug\netcoreapp3.1\ApExample1.pdb
+C:\Users\hp\source\repos\ApExample1\ApExample1\obj\Debug\netcoreapp3.1\ApExample1.genruntimeconfig.cache
